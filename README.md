@@ -4,9 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/sumit-lowanshi-83786119b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sumit-lowanshi-83786119b/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/div_81" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="div_81" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/itachiuchiha0538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="itachiuchiha0538" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/absolute_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="absolute_99" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/absolute99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="div_81" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/absolute99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="itachiuchiha0538" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/absolute99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="absolute_99" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/absolute99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="absolute99" height="30" width="40" /></a>
 </p>
 
